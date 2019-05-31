@@ -19,7 +19,7 @@ Or if you want you can contact me on discord: link is [here](https://discord.gg/
 
 ## Versioning
 
-I use [SemVer](http://semver.org) for versioning. For the versions available, see the [releases on this repository](https://github.com/kkrypt0nn/Basic-HWID-Grabber/releases). 
+I use [SemVer](http://semver.org) for versioning. For the versions available, see the [tags on this repository](https://github.com/kkrypt0nn/Basic-HWID-Grabber/tags). 
 
 ## Author(s)
 
